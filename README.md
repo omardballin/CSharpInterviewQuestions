@@ -1,10 +1,10 @@
 # CSharpInterviewQuestions
 1. What is C#?
-    * yo
+    * C# is an object oriented language and is a more morden and simple langauge. 
 2. What is a class, what is an object, and how are they related?
-    * yo
+    * A class is more of a blueprint that describes what the object behavior will be like.  Objects have states and behaviors such as pet name, weight, own, etc. 
 3. What is the difference between a class and a struct?
-    *
+    * structs are value types while reference type. 
 4. What is an enum and when should it be used?
     *
 5. What is the difference between break and continue?
@@ -39,3 +39,4 @@
     *
 20. What is the difference between “as” and “is” operators in C#?
     *
+### got my information from the famous stackoverflow.com and W3schools.com
