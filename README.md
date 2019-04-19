@@ -1,6 +1,6 @@
 # CSharpInterviewQuestions
 1. What is C#?
-        * cool
+ - yo
 2. What is a class, what is an object, and how are they related?
 3. What is the difference between a class and a struct?
 4. What is an enum and when should it be used?
